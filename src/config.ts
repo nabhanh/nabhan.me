@@ -2,7 +2,7 @@ import type { SocialObjects } from "./types";
 
 export const SITE = {
   website: "https://nabhanhanif.tech",
-  author: "Sat Naing",
+  author: "Nabhan Hanif",
   desc: "My personal blog",
   title: "Nabhan Hanif",
   lightAndDarkMode: true,
@@ -31,7 +31,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:me@nabhanhanif.tech",
+    href: "mailto:nabhanhanif2000@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },
